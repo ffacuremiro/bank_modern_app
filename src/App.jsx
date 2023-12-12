@@ -22,6 +22,7 @@ const App = ()=> (
             <Estadisticas/>
             <Negocios/>
             <Facturacion/>
+            <RepartoTarjeta/>
             <Testimonios/>
             <Clientes/>
             <CTA/>
